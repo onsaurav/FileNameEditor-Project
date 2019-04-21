@@ -1,0 +1,33 @@
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.exe
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.pdb
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.xml
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.frmFileNameEditor.resources
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.Resources.resources
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.vbproj.GenerateResource.Cache
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.exe
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.xml
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.pdb
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.exe
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.pdb
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.xml
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.frmFileNameEditor.resources
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.Resources.resources
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.vbproj.GenerateResource.Cache
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.exe
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.xml
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.pdb
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\bin\Debug\FileNameEditor.exe
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\bin\Debug\FileNameEditor.pdb
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\bin\Debug\FileNameEditor.xml
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.frmFileNameEditor.resources
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.Resources.resources
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.vbproj.GenerateResource.Cache
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.exe
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.xml
+C:\Users\Saurav\Desktop\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.pdb
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.exe
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.xml
+E:\My Soft\VB.net\FileNameEditor\FileNameEditor-Project\FileNameEditor\obj\Debug\FileNameEditor.pdb
